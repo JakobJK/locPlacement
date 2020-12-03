@@ -18,7 +18,7 @@ locPlacement.main()
 
 ### Author
 
-[**Jakob Kousholt**](https://www.linkedin.com/in/jakejk/)
+[**Jakob Kousholt**](https://www.linkedin.com/in/jakobjk/)
 
 ### License
 
