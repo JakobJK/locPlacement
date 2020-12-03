@@ -7,7 +7,7 @@ locPlacement is a utility script for Maya, that will automatically position sele
 
 ## Usage
 
-* Place the locPlacement file within your maya scripts directory
+* Place the locPlacement.py file within your [maya scripts](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-Customizing/files/GUID-FA51BD26-86F3-4F41-9486-2C3CF52B9E17-htm.html) directory
 * Select the locators you want to place onto Geometry
 * Run the following command from the Maya Python Script Editor:
 
