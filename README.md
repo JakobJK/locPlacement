@@ -1,6 +1,6 @@
 # locPlacement
 
-locPlacement is a utility script for Maya, that will automatically position selected locators at the nearest geometry, from the viewpoint of the currently active camera. Helpful for especially during tracking/matchmoving
+LocPlacement is a utility script for Autodesk Maya that will position selected locators at the nearest geometry, from the viewpoint of the currently active camera
 
 ---
 ![locPlacement](https://i.imgur.com/ZWy5Zgb.gif)
