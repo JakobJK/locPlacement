@@ -17,8 +17,8 @@ locPlacement.main()
 
 ## Author
 
-[**Jakob Kousholt**](https://www.linkedin.com/in/jakejk/) - Freelance Creature Modeller
+[**Jakob Kousholt**](https://www.linkedin.com/in/jakejk/)
 
 ## License
 
-creaseEdges is licensed under the [MIT](https://rem.mit-license.org/) License.
+locPlacement is licensed under the [MIT](https://rem.mit-license.org/) License.
